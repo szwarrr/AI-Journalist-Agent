@@ -10,13 +10,7 @@ The **AI Journalist Agent** is a Streamlit app powered by OpenAI GPT-4o, designe
 
 ### Getting Started
 
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd advanced_ai_agents/single_agent_apps/ai_journalist_agent
-```
-
+  `
 2. **Install dependencies:**
 
 ```bash
